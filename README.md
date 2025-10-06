@@ -55,11 +55,11 @@ Target variable (`menu_price`) was **log-transformed** for variance stabilizatio
 
 | Model | Key Characteristics | Test RMSE | R² (Test) | Remarks |
 |:------|:--------------------|:----------|:-----------|:--------|
-| Linear Regression | Moderate bias, limited ability to capture non-linear patterns | ~4.65 | 0.67 | Serves as baseline |
-| Ridge Regression | Similar to Linear Regression — minor improvement | ~4.62 | 0.68 | Low multicollinearity |
-| Lasso Regression | Strong underfitting due to high regularization | Higher | Lower | Coefficient shrinkage |
-| Random Forest | Captures non-linear relations well; slight overfitting | ~4.3 | 0.72 | Balanced performance |
-| XGBoost | Best performing model — captures complex interactions | ~4.1 | 0.74 | Mild overfitting observed |
+| Linear Regression | Moderate bias, limited ability to capture non-linear patterns | 6.33 | 0.36 | Serves as baseline |
+| Ridge Regression | Similar to Linear Regression — minor improvement | 6.35 | 0.36 | Low multicollinearity |
+| Lasso Regression | Strong underfitting due to high regularization | 7.78 | 0.04 | Coefficient shrinkage |
+| Random Forest | Captures non-linear relations well; slight overfitting | 5.75 | 0.47 | Balanced performance |
+| XGBoost | Best performing model — captures complex interactions | 5.06 | 0.59 | Mild overfitting observed |
 
 ---
 

@@ -19,6 +19,9 @@ To empower restaurant owners and entrepreneurs with insights on:
 - **Opportunities for new restaurant ventures based on data-driven price predictions**
 
 ---
+## Jupyter Notebook Link
+- https://github.com/vijesh-mlai/MLAI_Mod_24/blob/main/prompt_III.ipynb
+---
 
 ## 🧠 Methodology
 

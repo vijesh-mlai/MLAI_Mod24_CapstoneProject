@@ -20,7 +20,7 @@ To empower restaurant owners and entrepreneurs with insights on:
 
 ---
 ## Jupyter Notebook Link
-- https://github.com/vijesh-mlai/MLAI_Mod_24/blob/main/prompt_III.ipynb
+- https://github.com/vijesh-mlai/MLAI_Mod24_CapstoneProject/blob/main/Restaurants.ipynb
 ---
 
 ## 🧠 Methodology
